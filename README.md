@@ -1,3 +1,4 @@
+![Cover Image](cover_image.jpg)
 ## Hi there 👋
 
 - Btech'25 AI&DS @ IIT Jodhpur
